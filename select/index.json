@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "チョット (2019 Remastered)",
+  "base_artist": "大黒摩季",
+  "createdAt": "2025-12-01T22:14:34.668988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チョット",
+      "artist": "大黒摩季",
+      "has_synced": true,
+      "path": "select/01_チョット_大黒摩季.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちょっとさみしいな",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/pl_01_ちょっとさみしいな_Berryz工房.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ちょっとした恋の唄",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/pl_02_ちょっとした恋の唄_Berryz工房.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ちょっと、せつないな",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/pl_03_ちょっと、せつないな_Berryz工房.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ちょっとイイ女",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/pl_04_ちょっとイイ女_Berryz工房.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ちょっと早めのX'mas song",
+      "artist": "Berryz工房",
+      "has_synced": false,
+      "path": "select/pl_05_ちょっと早めのX'mas_song_Berryz工房.txt"
+    }
+  ]
+}
